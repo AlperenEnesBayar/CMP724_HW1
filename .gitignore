@@ -1,0 +1,7 @@
+# add Assets\Sprites folder to ignore list
+Assets/Sprites/
+Assets/TextMesh Pro/
+Assets/Settings/
+ProjectSettings/
+Library/
+Logs/
